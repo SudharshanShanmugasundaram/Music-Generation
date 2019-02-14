@@ -16,6 +16,4 @@ The midi dataset can be downloaded here : [The MIDI Dataset](http://www-etud.iro
 4. Skimage
 5. IPython
 
-*I do not claim the work to be completely mine or do not own any copyrights.I have implemented this as a part of my learning journey*
-
-*Most of the work is inspired from [this](https://github.com/jmcarpenter2/music-generation) repository and I acknowledge the author for his work*
+*The work is inspired from [this](https://github.com/jmcarpenter2/music-generation) repository and I acknowledge the author completely for his work.This was done as a part of learning.*
